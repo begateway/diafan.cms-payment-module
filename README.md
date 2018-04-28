@@ -8,7 +8,7 @@
 
 ## Установка
 
-1. Скачайте последнюю версию модуля https://github.com/begateway/diafan.cms-payment-module/releases)
+1. Скачайте последнюю версию модуля https://github.com/begateway/diafan.cms-payment-module/releases
 2. Распакуйте и загрузите директорию `modules` в корневую директорию вашей установки DIAFAN.CMS
 3. После установки зайдите в панель администратора DIAFAN.CMS в раздел «Оплата»
 4. На открывшейся странице «Методы оплаты» нажмите «Добавить».
